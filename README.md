@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 I am Rishi Jain, a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently a student of Computer Science Engineering at Manipal University Jaipur and a Postman Student Leader and contributing to frontend for building web applications.
+- :telescope: I’m currently a student of Computer Science Engineering at Manipal University Jaipur. I am also OnePlus SAP Student Intern 2022-23 and a Postman Student Leader and contributing to frontend for building web applications.
 
 - :seedling: Exploring the latest field of Blockchain.
 
