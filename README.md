@@ -33,8 +33,8 @@ I am Rishi Jain, a MERN Stack Developer <img src="https://media.giphy.com/media/
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript" width="60" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="60" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="60" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" title="MongoDB" alt="MongoDB" width="60" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MSSQL" alt="MSSQL" width="70" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="60" height="35"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="MSSQL" alt="MSSQL" width="120" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS" width="60" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="60" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" width="60" height="35"/>&nbsp;
