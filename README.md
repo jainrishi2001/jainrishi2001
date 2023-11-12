@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/rishi-jain-7478401ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Jain_1Rishi">
+  <a href="https://twitter.com/rishijaindev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
