@@ -14,8 +14,8 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am Rishi Jain, a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Community lover from India.
-- :telescope: I’m currently a student of Computer Science Engineering at Manipal University Jaipur. I was also OnePlus Community Student Intern 2022-23 and a Postman Student Leader and contributing to the frontend for building web applications.
+I am Rishi Jain, a Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Community lover from India.
+- :telescope: I’m a graduate of Computer Science Engineering from Manipal University Jaipur. I was also a OnePlus Community Student Intern 2022-23 and a Postman Student Leader.
 
 - :seedling: Exploring the latest field of Blockchain.
 
