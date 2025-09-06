@@ -15,9 +15,9 @@
 
 ### :man_technologist: About Me :
 I am Rishi Jain, a Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Community lover from India.
-- :telescope: I’m a graduate of Computer Science Engineering from Manipal University Jaipur. I was also a OnePlus Community Student Intern 2022-23 and a Postman Student Leader.
+- :telescope: I am currently pursuing my Masters in Computer Science at Brown University in US. I completed my undergrad in Computer Science Engineering from Manipal University Jaipur, India. I was also a OnePlus Community Student Intern 2022-23 and a Postman Student Leader.
 
-- :seedling: Exploring the latest field of Blockchain.
+- :seedling: Exploring the latest field of Blockchain and HCI.
 
 - :zap: In my free time, I love to read books and watch anime(Sub not Dub).
 
