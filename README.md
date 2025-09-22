@@ -20,7 +20,7 @@ I am Rishi Jain, a Product Manager <img src="https://media.giphy.com/media/WUlpl
 - YC Startup (CloudEagle) experience – contributed to building product features in a fast-paced, growth-oriented environment.
 - I was also a OnePlus Community Student Intern 2022-23 and a Postman Student Leader.
 
-- :seedling: Exploring the latest field of Blockchain and HCI.
+- :seedling: Exploring the fields of Deep Learning and HCI.
 
 - :zap: In my free time, I love to read books and watch anime(Sub not Dub).
 
