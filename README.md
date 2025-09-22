@@ -15,7 +15,10 @@
 
 ### :man_technologist: About Me :
 I am Rishi Jain, a Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a Community lover from India.
-- :telescope: I am currently pursuing my Masters in Computer Science at Brown University in US. I completed my undergrad in Computer Science Engineering from Manipal University Jaipur, India. I was also a OnePlus Community Student Intern 2022-23 and a Postman Student Leader.
+- :telescope: I am currently pursuing my Master's in Computer Science at Brown University in the US. I completed my undergrad in Computer Science Engineering from Manipal University Jaipur, India.
+- Ex-PM at Refold AI (Cobalt) – worked on SaaS products with a focus on API-first products, integration paths, and third-party product partnerships.
+- YC Startup (CloudEagle) experience – contributed to building product features in a fast-paced, growth-oriented environment.
+- I was also a OnePlus Community Student Intern 2022-23 and a Postman Student Leader.
 
 - :seedling: Exploring the latest field of Blockchain and HCI.
 
